@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="stylesheet.xsl"?>
+<tvshows>
+    <show class="table">
+        <tableheader>
+            <header class="Dataheader">Title</header>
+            <header class="Dataheader">Genre</header>
+            <header class="Dataheader">Rating</header>
+            <header class="Dataheader">Description</header>
+            <header class="Dataheader">Plot</header>
+            <header class="Dataheader">Link</header>
+        </tableheader>
+        <show_list>
+            <title class="Datarow">Black Rider</title>
+            <genre class="Datarow">Drama, Action</genre>
+            <rating class="Datarow">12.5%</rating>
+            <description class="Datarow">Elias' family falls victim to the ruthless Golden Scorpion 
+                syndicate, leaving him as the sole survivor and sparking his unyielding quest for justice. 
+                Embracing the ancient martial art of Kali, he metamorphoses into the “Black Rider,” 
+                a beacon of hope in a city plagued by corruption and lawlessness.</description>
+            <plot class="Datarow">A delivery driver becomes a vigilante on his motorcycle and faces a 
+                powerful  crime syndicate that threatens his city.</plot>
+            <link id="clickable" class="Datarow" href="https://www.gmanetwork.com/fullepisodes/home/black_rider" >https://www.gmanetwork.com/fullepisodes/home/black_rider</link>
+            <image class="Datarow" href="image/blackrider.jpeg"></image>
+        </show_list>
+        <show_list>
+            <title class="Datarow">Batang Quiapo</title>
+            <genre class="Datarow">Crime Drama Action Comedy Syndicate</genre>
+            <rating class="Datarow">9.5%</rating>
+            <description class="Datarow">FPJ's Batang Quiapo (transl. FPJ's Quiapo Kid) is a Philippine action-comedy drama 
+                television series broadcast by Kapamilya Channel. Directed by Malu L. Sevilla, Darnel Joy R. Villaflor, Coco Martin 
+                and Kevin de Vela, the series stars Martin as the titular main character. It is based on the 1986 action-comedy film 
+                of the same title starring Fernando Poe Jr. and Maricel Soriano.The series premiered on the network's Primetime Bida 
+                evening block, and worldwide via The Filipino Channel on February 13, 2023, replacing Mars Ravelo's Darna.</description>
+            <plot class="Datarow">A young man named Tanggol (Coco Martin) rises to be one of the biggest outlaws in the 
+                neighborhood while he navigates his way in life to survive in Quiapo, Manila. Hoping to earn the affection 
+                of his parents, his feat draws him closer to the truth about his identity</plot>
+            <link id="clickable" class="Datarow" href="https://ent.abs-cbn.com/batangquiapo">https://ent.abs-cbn.com/batangquiapo</link>
+            <image class="Datarow" href="image/batangquiapo.jpg"></image>
+        </show_list>
+        <show_list>
+            <title class="Datarow">TVJ</title>
+            <genre class="Datarow">Comedy</genre>
+            <rating class="Datarow">3.3%</rating>
+            <description class="Datarow">TVJ is the initialism of the comedy trio composed of Tito Sotto, Vic Sotto, and Joey de Leon. 
+                The trio has been active in the Philippine entertainment industry since 1972, and is best remembered for their multimedia 
+                comedy ventures in music, film, and television. Their hallmark styles are slapstick comedy, parodies, observational comedy, 
+                wordplays, and pop culture commentary. Early film posters and album covers often credit the trio as Tito, Vic and Joey and 
+                not by the initialism</description>
+            <plot class="Datarow"></plot>
+            <link class="Datarow" href="https://www.tv5.com.ph/shows/e-a-t">https://www.tv5.com.ph/shows/e-a-t</link>
+            <image class="Datarow1" href="image/TVJ.jpg"> </image>
+        </show_list>
+		<show_list>
+            <title class="Datarow">Wednesday</title>
+            <genre class="Datarow">Horror Comedy Drama Adventure Fantasy Mystery Crime Fiction</genre>
+            <rating class="Datarow">8.1/10</rating>
+            <description class="Datarow">The show follows Wednesday's years as a student at Nevermore Academy, her parents' 
+				alma mater, as she tries to master her psychic ability, thwart a killing spree that has terrorized the local town, 
+				and solve the supernatural mystery that embroiled her parents 25 years ago.
+			</description>
+            <plot class="Datarow">Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, 
+                thwart a killing spree, and solve the mystery that embroiled her parents. A sleuthing, supernaturally infused mystery charting 
+                Wednesday Addams' years as a student at Nevermore Academy.</plot>
+            <link class="Datarow" href="https://www.imdb.com/title/tt13443470/">https://www.imdb.com/title/tt13443470/</link>
+            <image class="Datarow" href="image/wednesday.jpg"></image>
+        </show_list>
+		<show_list>
+            <title class="Datarow">Stranger Things</title>
+            <genre class="Datarow">science fiction horror drama</genre>
+            <rating class="Datarow">8.7/10</rating>
+            <description class="Datarow">When a young boy vanishes, a small town uncovers a mystery involving secret experiments, 
+				terrifying supernatural forces and one strange little girl.
+			</description>
+            <plot class="Datarow">Set in the 1980s, the series centers around the residents of the fictional small town of Hawkins, Indiana, 
+                as they are plagued by a hostile alternate dimension known as the Upside Down, after a nearby human experimentation facility 
+                opens a gateway between Earth and the Upside Down.</plot>
+            <link class="Datarow" href="https://www.imdb.com/title/tt4574334/">https://www.imdb.com/title/tt4574334/</link>
+            <image class="Datarow" href="image/stranger_things.jpg"></image>
+        </show_list>
+		<show_list>
+            <title class="Datarow">Larong Pusit</title>
+            <genre class="Datarow">Horror Action Thriller Romance Drama Comedy War Western</genre>
+            <rating class="Datarow">8.0/10</rating>
+            <description class="Datarow">The story revolves around a group of cash-strapped people from all backgrounds and ages who 
+				are invited to participate in a survival game with a top prize of 45.6 billion Won (around USD 35 million). The players 
+				are abducted from the streets of South Korea and crowded together on an island where only one survivor will win the ultimate prize: 
+				their lives and the money to pay their crippling debts.
+			</description>
+            <plot class="Datarow"></plot>
+            <link class="Datarow" href="https://www.imdb.com/title/tt10919420/">https://www.imdb.com/title/tt10919420/</link>
+            <image class="Datarow" href="image/squid_games.jpg"></image>
+        </show_list>
+		<show_list>
+            <title class="Datarow">Arcane</title>
+            <genre class="Datarow">	Action Adventure Drama Science fantasy Steampunk</genre>
+            <rating class="Datarow">9.0/10</rating>
+            <description class="Datarow">The story revolves around the sisters Vi and Jinx, who were separated as young children in the undercity, 
+				Zaun. The show explores the delicate balance between the rich city of Piltover and the seedy underbelly of Zaun.
+			</description>
+            <plot class="Datarow"></plot>
+            <link class="Datarow" href="https://www.imdb.com/title/tt11126994/">https://www.imdb.com/title/tt11126994/</link>
+            <image class="Datarow" href="image/arcane.png"></image>
+        </show_list>
+		<show_list>
+            <title class="Datarow">Loki</title>
+            <genre class="Datarow"> Action Drama Superhero Adventure Thriller Mystery</genre>
+            <rating class="Datarow"> 8.2/10</rating>
+            <description class="Datarow">After taking the Tesseract in "Avengers: Endgame," a parallel Loki is transported before the Time Variance 
+				Authority, which oversees the timeline. Loki must choose between erasure as a "time variation" or fixing the timeline to stop a bigger threat.
+			</description>
+            <plot class="Datarow"></plot>
+            <link class="Datarow" href="https://www.imdb.com/title/tt9140554/">https://www.imdb.com/title/tt9140554/</link>
+            <image class="Datarow" href="image/2Loki.jpg"></image>
+        </show_list>
+		<show_list>
+            <title class="Datarow">Game of Thrones</title>
+            <genre class="Datarow">Serial Action Drama Suspense Tragedy Fantasy Romance </genre>
+            <rating class="Datarow">9.2/10</rating>
+            <description class="Datarow">After taking the Tesseract in "Avengers: Endgame," a parallel Loki is transported before the Time Variance Authority, 
+				which oversees the timeline. Loki must choose between erasure as a "time variation" or fixing the timeline to stop a bigger threat.
+			</description>
+            <plot class="Datarow">Set on the fictional continents of Westeros and Essos, Game of Thrones has a large ensemble cast and follows several story arcs 
+                throughout the course of the show. The first major arc concerns the Iron Throne of the Seven Kingdoms of Westeros through a web of political conflicts 
+                among the noble families either vying to claim the throne or fighting for independence from whoever sits on it. The second focuses on the last descendant 
+                of the realm's deposed ruling dynasty, who has been exiled to Essos and is plotting to return and reclaim the throne. The third follows the Night's Watch, 
+                a military order defending the realm against threats from beyond Westeros' northern border.</plot>
+            <link class="Datarow" href="https://www.imdb.com/title/tt0944947/">https://www.imdb.com/title/tt0944947/</link>
+            <image class="Datarow" href="image/Game_of_Thrones.png"></image>
+        </show_list>
+		<show_list>
+            <title class="Datarow">Black Knight</title>
+            <genre class="Datarow">Action Adventure Sci-Fi Thriller Drama </genre>
+            <rating class="Datarow">6.4/10</rating>
+            <description class="Datarow">"Black Knight" is a science fiction series based on Lee Yoon-gyun's webtoon "Delivery Knight". The show is set in a 
+				dystopian future where air pollution has ravaged most of the Earth, leaving only a small population left. The Black Knights, a group of elite
+				delivery drivers, are essential for humanity's survival.
+			</description>
+            <plot class="Datarow">where people depend on respirator masks to breathe. Only one percent of the human race has survived, and a strict social stratification 
+                has been established in the deserted lands of the Korean Peninsula. Delivery drivers play a crucial role within this system, and for refugees, becoming a 
+                delivery driver is their only hope for survival.</plot>
+            <link class="Datarow" href="https://www.imdb.com/title/tt17013106/">https://www.imdb.com/title/tt17013106/</link>
+            <image class="Datarow" href="image/Black_Knight.jpg"></image>
+        </show_list>
+		<show_list>
+            <title class="Datarow">Prison Break</title>
+            <genre class="Datarow">Serial Action Drama Suspense Adventure Mystery Crime-Fiction</genre>
+            <rating class="Datarow">8.3/10</rating>
+            <description class="Datarow">The story revolves around two brothers, Lincoln Burrows and Michael Scofield, who are framed for the murder of the 
+				Vice President's brother and are awaiting execution on death row.
+			</description>
+            <plot class="Datarow">The story revolves around a man who was sentenced to death for a crime he did not commit and his brother's elaborate plan to help him escape his death sentence.</plot>
+            <link class="Datarow" href="https://www.imdb.com/title/tt0455275/">https://www.imdb.com/title/tt0455275/</link>
+            <image class="Datarow" href="image/Prison_Break.jpg"></image>
+        </show_list>
+    </show>
+</tvshows>
